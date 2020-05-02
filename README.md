@@ -1,2 +1,2 @@
-# <Repo Name>
-  Repo Description
+# ViewBnB
+  Rent a room/lodgings website created in Laravel/PHP 

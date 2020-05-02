@@ -1,7 +1,7 @@
 # ViewBnB
 <h2>Project Overview</h2>
 
-Rent a room/lodgings website created in Laravel/PHP 
+Rent a room/lodgings website created in Laravel/PHP - Laravel Framework 7.9.2
 
 <h2>Laravel</h2>
 

@@ -19,11 +19,11 @@
   </nav>
 -->
    
-<div class="jumbotron" style="background-color: whitesmoke;">
+<div class="jumbotron" style="background-color: whitesmoke; margin-bottom: 0;">
 
     <form class="form-inline pt-5"> <!--my-2 my-lg-0 -->
             <div class="form-group col-sm-3 pt-1">
-                <label for="searchcity">Places to Stay :</label>
+                <label for="searchcity">Places to Stay</label>
                  <input id="searchcity" class="form-control mr-sm-4" type="search" placeholder="City Name">
             </div>
             <div class="form-group col-sm-3">

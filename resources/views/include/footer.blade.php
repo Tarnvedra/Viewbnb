@@ -46,7 +46,7 @@
     <div class="col-md-3">
 <h6 class="pr-2">Community</h6>
 <a href="" class="text-secondary">Viewbnb Magazine</a><br>
-<a href="" class="text-secondary">Airbnb for Work</a><br>
+<a href="" class="text-secondary">Viewbnb for Work</a><br>
 <a href="" class="text-secondary">Invite friends</a><br>
 <a href="" class="text-secondary">Careers</a><br>
 </div>
